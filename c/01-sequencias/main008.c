@@ -12,7 +12,7 @@ Data 25/09/2025 -> 4ª Dia
 
 #include <stdio.h>
 
-int min() {
+int main() {
 
     float distancia;
     float km,hm,dam;
@@ -24,8 +24,8 @@ int min() {
     dam = distancia / 10;
 
     printf("A distancia de %fm corresponde a:\n",distancia);
-    printf("%fKm",km);
-    printf("%fHm",hm);
-    printf("%fDam",dam);
+    printf("%fKm\n",km);
+    printf("%fHm\n",hm);
+    printf("%fDam\n",dam);
     return 0;
 }
