@@ -16,6 +16,6 @@ Transformar-me em um desenvolvedor full-stack através de estudo consistente e p
 ### 🌱 **Fase 1: Fundamentos** (Em andamento)
 | Tecnologia | Status | Concluído |
 |------------|--------|-----------|
-| **C** | 🟡 Em andamento | Exercícios 1-10 |
-| **Python** | 🟡 Em andamento | Exercícios 1-10 |
+| **C** | 🟡 Em andamento | Exercícios 1-12 |
+| **Python** | 🟡 Em andamento | Exercícios 1-12 |
 | **HTML/CSS** | 🔜 Em breve | - |
