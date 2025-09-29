@@ -13,9 +13,29 @@ Transformar-me em um desenvolvedor full-stack através de estudo consistente e p
 
 ## 📊 Progresso Atual
 
-### 🌱 **Fase 1: Fundamentos** (Em andamento)
+### 🌱 **Fase 1: Fundamentos** (Completo)
 | Tecnologia | Status | Concluído |
 |------------|--------|-----------|
-| **C** | 🟡 Em andamento | Exercícios 1-14 |
-| **Python** | 🟡 Em andamento | Exercícios 1-14 |
+| **C** | 🟡 Em andamento | Exercícios 1-16 |
+| **Python** | 🟡 Em andamento | Exercícios 1-16 |
 | **HTML/CSS** | 🔜 Em breve | - |
+
+```markdown
+# 💻 Minha Jornada na Programação
+
+## ✅ Concluído (Dias 1-8)
+- **16 exercícios** em C e Python
+- **Estruturas Sequenciais** dominadas
+- **Git/GitHub** sob controle
+
+## 🚀 Próximos Passos
+- **Condicionais** (exercícios 17+)
+- **Projetos** interativos
+
+## 📊 Progresso
+- Exercícios: 16/100
+- Dias: 8/365
+- Fases: 1/4
+
+---
+*Evolução diária rumo à Engenharia de Software*
