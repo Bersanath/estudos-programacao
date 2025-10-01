@@ -39,3 +39,12 @@ Transformar-me em um desenvolvedor full-stack através de estudo consistente e p
 
 ---
 *Evolução diária rumo à Engenharia de Software*
+
+## 📊 Progresso Atual
+
+### 🌱 **Fase 2: Condiconais** (Em adamento)
+| Tecnologia | Status | Concluído |
+|------------|--------|-----------|
+| **C** | 🟡 Em andamento | Exercícios 1-20 |
+| **Python** | 🟡 Em andamento | Exercícios 1-20 |
+| **HTML/CSS** | 🔜 Em breve | - |
