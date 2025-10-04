@@ -45,6 +45,6 @@ Transformar-me em um desenvolvedor full-stack através de estudo consistente e p
 ### 🌱 **Fase 2: Condiconais** (Em adamento)
 | Tecnologia | Status | Concluído |
 |------------|--------|-----------|
-| **C** | 🟡 Em andamento | Exercícios 1-24 |
-| **Python** | 🟡 Em andamento | Exercícios 1-24 |
+| **C** | 🟡 Em andamento | Exercícios 1-26 |
+| **Python** | 🟡 Em andamento | Exercícios 1-26 |
 | **HTML/CSS** | 🔜 Em breve | - |
