@@ -33,7 +33,7 @@ Transformar-me em um desenvolvedor full-stack através de estudo consistente e p
 - **Projetos** interativos
 
 ## 📊 Progresso
-- Exercícios: 31/100
+- Exercícios: 32/100
 - Dias: 15/365
 - Fases: 1/4
 
