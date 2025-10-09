@@ -23,7 +23,7 @@ Transformar-me em um desenvolvedor full-stack através de estudo consistente e p
 ```markdown
 # 💻 Minha Jornada na Programação
 
-## ✅ Concluído (Dias 1-8)
+## ✅ Concluído (Dias 1-18)
 - **16 exercícios** em C e Python
 - **Estruturas Sequenciais** dominadas
 - **Git/GitHub** sob controle
@@ -34,7 +34,7 @@ Transformar-me em um desenvolvedor full-stack através de estudo consistente e p
 
 ## 📊 Progresso
 - Exercícios: 36/100
-- Dias: 17/365
+- Dias: 18/365
 - Fases: 1/4
 
 ---

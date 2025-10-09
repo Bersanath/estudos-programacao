@@ -4,7 +4,7 @@ na tela uma das mensagens abaixo:
 - O segundo valor é o maior
 - Não existe valor maior, os dois são iguais
 
-Data 04/10/2025 -> 12ª Dia
+Data 04/10/2025 -> 13ª Dia
 */
 #include <stdio.h>
 

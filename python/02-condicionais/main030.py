@@ -4,7 +4,7 @@ de triângulo será formado:
 - ISÓSCELES: dois lados iguais
 - ESCALENO: todos os lados diferentes
 
-Data 06/10/2025 -> 14ª Dia
+Data 06/10/2025 -> 15ª Dia
 '''
 
 num1 = float(input('PRIMEIRO SEGMENTO: '))

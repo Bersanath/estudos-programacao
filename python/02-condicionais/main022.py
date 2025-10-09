@@ -5,7 +5,7 @@ alistamento.
 - Se já tiver depois dos 18 anos, mostre quantos anos já se passaram do
 alistamento.
 
-Data 02/10/2025 -> 10ª Dia
+Data 02/10/2025 -> 11ª Dia
 '''
 
 ano = int(input('Digite o seu ano de nascimento: '))

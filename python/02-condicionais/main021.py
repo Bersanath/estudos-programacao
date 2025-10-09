@@ -1,7 +1,7 @@
 '''Faça um algoritmo que leia um determinado ano e mostre se ele é ou não
 BISSEXTO.
 
-Data 02/10/2025 -> 10ª Dia
+Data 02/10/2025 -> 11ª Dia
 '''
 
 ano = int(input('Digite o ano: '))

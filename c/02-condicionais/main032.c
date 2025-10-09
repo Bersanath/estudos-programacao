@@ -1,7 +1,7 @@
 /*Crie um jogo onde o computador vai sortear um número entre 1 e 5 o
 jogador vai tentar descobrir qual foi o valor sorteado.
 
-Data 07/10/2025 -> 15ª Dia
+Data 07/10/2025 -> 16ª Dia
 */
 
 #include <stdio.h>

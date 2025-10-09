@@ -5,7 +5,7 @@ acordo com a tabela a seguir:
 - entre 3 e 10 anos: aumento de 12.5%
 - 10 anos ou mais: aumento de 20%
 
-Data 06/10/2025 -> 14ª Dia
+Data 06/10/2025 -> 15ª Dia
 */
 
 #include <stdio.h>

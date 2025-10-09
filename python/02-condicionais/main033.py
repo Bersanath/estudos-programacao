@@ -3,7 +3,7 @@ de uma casa. O programa vai perguntar o valor da casa, o salário do comprador e
 em quantos anos ele vai pagar. Calcule o valor da prestação mensal, sabendo que
 ela não pode exceder 30% do salário ou então o empréstimo será negado.
 
-Data 08/10/2025 -> 16ª Dia
+Data 08/10/2025 -> 17ª Dia
 '''
 
 print('=== SIMULADOR DE EMPRÉSTIMO IMOBILIÁRIO ===')

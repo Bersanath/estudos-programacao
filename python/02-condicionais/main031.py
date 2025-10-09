@@ -1,6 +1,6 @@
 '''Crie um jogo de JoKenPo (Pedra-Papel-Tesoura)
 
-Data 07/10/2025 -> 15ª Dia
+Data 07/10/2025 -> 16ª Dia
 '''
 
 print('=== Jogo de JoKenPo - Pedra, Papel ou Tesoura ===')

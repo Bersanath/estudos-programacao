@@ -3,7 +3,7 @@ Analise seus comprimentos e diga se é possível formar um triângulo com essas
 retas. Matematicamente, para três segmentos formarem um triângulo, o comprimento
 de cada lado deve ser menor que a soma dos outros dois.
 
-Data 04/10/2025 -> 12ª Dia
+Data 04/10/2025 -> 13ª Dia
 */
 
 #include <stdio.h>

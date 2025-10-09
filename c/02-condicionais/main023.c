@@ -5,7 +5,7 @@ que:
 - Homens ganham 5% de desconto
 - Mulheres ganham 13% de desconto
 
-Data 03/10/2025 -> 11ª Dia
+Data 03/10/2025 -> 12ª Dia
 */
 
 #include <stdio.h>

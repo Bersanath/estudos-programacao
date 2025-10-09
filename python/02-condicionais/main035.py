@@ -11,7 +11,7 @@ tabela a seguir:
 - Até 200Km percorridos: R$0,30 por Km
 - Acima de 200Km percorridos: R$0,25 por Km
 
-Data 09/10/2025 -> 17ª Dia
+Data 09/10/2025 -> 18ª Dia
 '''
 
 carro = str(input('Que tipo de carro pretendes alugar (popular/luxo): ')).lower()

@@ -9,7 +9,7 @@ indivíduo dentro de certas faixas.
 Obs: O IMC é calculado pela expressão peso/altura² (peso dividido pelo quadrado
 da altura)
 
-Data 08/10/2025 -> 16ª Dia
+Data 08/10/2025 -> 17ª Dia
 '''
 
 altura = float(input('Digite a sua altura: '))

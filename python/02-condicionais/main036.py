@@ -8,7 +8,7 @@ ser trocados por dinheiro. O sistema funciona assim:
 Faça um programa que leia quantas horas de atividade uma pessoa teve por mês,
 calcule e mostre quantos pontos ela teve e quanto dinheiro ela conseguiu ganhar.
 
-Data 09/10/2025 -> 17ª Dia
+Data 09/10/2025 -> 18ª Dia
 '''
 
 horas = int(input('Quantas horas de atividade você fez? '))
