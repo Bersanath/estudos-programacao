@@ -35,16 +35,25 @@ Transformar-me em um desenvolvedor full-stack através de estudo consistente e p
 ## 📊 Progresso
 - Exercícios: 36/100
 - Dias: 18/365
-- Fases: 1/4
+- Fases: 2/4
 
 ---
 *Evolução diária rumo à Engenharia de Software*
 
 ## 📊 Progresso Atual
 
-### 🌱 **Fase 2: Condiconais** (Em adamento)
+### 🌱 **Fase 2: Condiconais** (Completo)
 | Tecnologia | Status | Concluído |
 |------------|--------|-----------|
-| **C** | 🟡 Em andamento | Exercícios 1-36 |
-| **Python** | 🟡 Em andamento | Exercícios 1-36 |
+| **C** | 🟡 Em andamento | Exercícios 17-37 |
+| **Python** | 🟡 Em andamento | Exercícios 17-37 |
+| **HTML/CSS** | 🔜 Em breve | - |
+
+## 📊 Progresso Atual
+
+### 🌱 **Fase 3: Repeticao ** (Em andamneto)
+| Tecnologia | Status | Concluído |
+|------------|--------|-----------|
+| **C** | 🟡 Em andamento | Exercícios 38-38 |
+| **Python** | 🟡 Em andamento | Exercícios 38-38 |
 | **HTML/CSS** | 🔜 Em breve | - |

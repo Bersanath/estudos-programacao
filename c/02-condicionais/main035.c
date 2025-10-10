@@ -32,7 +32,7 @@ int main() {
     printf("Quantos km foram percorridos: ");
     scanf("%f",&km);
 
-    if(strcmp(carro, 'popular')) {
+    if(strcmp(carro, "popular") == 0) {
 
         aluguel_base = dias * 90;
         if(km <= 100) {
@@ -44,7 +44,7 @@ int main() {
             custo_km = km * 0.10;
         }
     }
-    else if(strcmp(carro, 'luxo')) {
+    else if(strcmp(carro, "luxo") == 0) {
 
         aluguel_base = dias * 150;
         if(km <= 200) {
