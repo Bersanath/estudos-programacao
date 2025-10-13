@@ -8,7 +8,7 @@ Data 13/10/2025 -> 21ª Dia
 
 num = int(input('Digite um número: '))
 
-cont = 0
+cont = 1
 
 while cont <= num:
     print(cont)
