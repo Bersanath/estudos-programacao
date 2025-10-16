@@ -15,7 +15,7 @@ int main() {
 
         printf("Digite um numero: ");
         scanf("%d",&num);
-        somatorio += i;
+        somatorio += num;
     }
     printf("%d",somatorio);
     return 0;

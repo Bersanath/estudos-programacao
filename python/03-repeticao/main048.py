@@ -9,7 +9,7 @@ somatorio = 0
 cont = 1
 while cont <= 7:
     num = int(input('Digite um número: '))
-    somatorio += cont
+    somatorio += num
     cont += 1
 
 print(somatorio)
