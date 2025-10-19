@@ -33,8 +33,8 @@ Transformar-me em um desenvolvedor full-stack através de estudo consistente e p
 - **Projetos** interativos
 
 ## 📊 Progresso
-- Exercícios: 52/100
-- Dias: 26/365
+- Exercícios: 54/100
+- Dias: 27/365
 - Fases: 3/4
 
 ---
@@ -59,6 +59,6 @@ Transformar-me em um desenvolvedor full-stack através de estudo consistente e p
 ### 🌱 **Fase 3: Repeticao ** (Em andamneto)
 | Tecnologia | Status | Concluído |
 |------------|--------|-----------|
-| **C** | 🟡 Em andamento | Exercícios 38-52 |
-| **Python** | 🟡 Em andamento | Exercícios 38-52 |
+| **C** | 🟡 Em andamento | Exercícios 38-54 |
+| **Python** | 🟡 Em andamento | Exercícios 38-54 |
 | **HTML/CSS** | 🔜 Em breve | - |
