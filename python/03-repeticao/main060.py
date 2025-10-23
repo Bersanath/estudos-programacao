@@ -6,7 +6,7 @@ c) A média de idade do grupo
 d) Quantos homens tem mais de 30 anos 
 e) Quantas mulheres tem menos de 18 anos 
 
-Data 21/10/2025 -> 29ª Dia
+Data 22/10/2025 -> 30ª Dia
 '''
 
 pessoa_mais_velha_idade = 0

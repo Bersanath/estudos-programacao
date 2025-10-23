@@ -5,7 +5,7 @@ b) quantos homens foram cadastrados
 c) qual é a idade da mulher mais jovem 
 d) qual é a média de idade entre os homens 
 
-Data 21/10/2025 -> 29ª Dia
+Data 22/10/2025 -> 30ª Dia
 '''
 
 
