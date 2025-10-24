@@ -5,6 +5,6 @@ seguinte contagem:
 Data 24/10/2025 -> 32ª Dia
 '''
 
-for i in range(0,46,+5):
+for i in range(0,45,+5):
     print(i,end=" ")
 print("Acabou!")
