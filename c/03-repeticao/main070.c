@@ -14,7 +14,9 @@ int main(){
     int proximo;
     int atual = 1;
 
-    for(int i = 0; i < 10; i++){
+    printf("%d %d ", anterior, atual);
+
+    for(int i = 0; i < 8; i++){
 
         proximo = anterior + atual;
         printf("%d ",proximo);
