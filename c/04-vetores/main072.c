@@ -15,7 +15,7 @@ int main(){
     int vetor[10];
 
     for(int i = 0; i < 10; i++){
-        vetor[i] = (i * 1) * 5;
+        vetor[i] = (i + 1) * 5;
     }
     for(int i = 0; i < 10; i++){
 

@@ -10,5 +10,5 @@ Data 29/10/2025 -> 36ª Dia
 lista = []
 
 for i in range(10):
-    lista.append((i * 1) * 5)
+    lista.append((i + 1) * 5)
 print(lista)
