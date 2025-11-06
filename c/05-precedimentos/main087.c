@@ -5,7 +5,7 @@ Ex: Ao chamar Gerador("Aprendendo Portugol") aparece:
 Aprendendo Portugol         
 +-------=======------+
 
-Data 06/11/2025 -> 45ª Dia
+Data 06/11/2025 -> 44ª Dia
 */
 
 #include <stdio.h>

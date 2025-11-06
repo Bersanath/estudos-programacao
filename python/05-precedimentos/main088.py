@@ -8,7 +8,7 @@ Aprendendo Portugol
 Aprendendo Portugol  
 +-------=======------+
 
-Data 06/11/2025 -> 45ª Dia
+Data 06/11/2025 -> 44ª Dia
 '''
 
 def gerador(mensagem):
